@@ -44,3 +44,4 @@ resource "google_bigquery_table" "table" {
 ]
 EOF
 }
+
